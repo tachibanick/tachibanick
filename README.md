@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm a B.Eng. Software Technology student at DTU
+I'm a B.Eng. Software Technology student at The Technical University of Denmark.
 
 Software skills:
 - Python
