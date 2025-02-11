@@ -1,5 +1,12 @@
 ## Hi there 👋
+I'm a B.Eng. Software Technology student at DTU
 
+Software skills:
+- Python
+- Java
+- SQL
+- F#
+- C
 <!--
 **tachibanick/tachibanick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
