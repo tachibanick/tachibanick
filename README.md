@@ -1,7 +1,6 @@
 ## Hi there 👋
 I'm studying BSc. Eng. Software Technology at The Technical University of Denmark.
 
-Software skills:
 - Python
 - Java
 - SQL
